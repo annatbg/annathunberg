@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annathunberg I'm a Front developer student @Technigo
+- 👋 Hi, I’m @annathunberg I'm a frontend developer & student @Technigo 
 -
 
 <!---

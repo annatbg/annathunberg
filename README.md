@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @annathunberg I'm a Front developer student @Technigo
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning responsive design.
+-
 
 <!---
 annathunberg/annathunberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

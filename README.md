@@ -1,4 +1,4 @@
-- 👋 Hi!
+👋 Hi! I'm Anna.
 
 I'm a creative frontend developer with a background in art/design.
 

@@ -1,6 +1,7 @@
 👋 Hi! I'm Anna.
 
-I'm a creative frontend developer with a background in art/design.
+I'm a creative frontend developer with a background in art and design. 
+My ambition is to make products that are fun and user friendly.
 
 - Interested in design aspect of frontend.
 - Fullstack ambition.

@@ -4,7 +4,7 @@ I'm a creative frontend developer with a passion for art and design.
 
 - Interested in design aspect of frontend.
 - Fullstack ambition.
-- Passionate about gender-equality in tech.
+
 
 
 <!---
